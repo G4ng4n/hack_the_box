@@ -5,3 +5,4 @@
 ## 索引
 
 - [Archetype](https://github.com/G4ng4n/hack_the_box/tree/main/Archetype)
+- [Oopsie](https://github.com/G4ng4n/hack_the_box/tree/main/Oopsie)
